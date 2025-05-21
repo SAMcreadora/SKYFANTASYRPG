@@ -1,0 +1,57 @@
+body{
+            background-color: #77A6B6;
+            text-align: justify;
+            font-family: 'Segoe UI';
+            margin: 20px;
+    }
+
+    #personajes{
+        background-color: #344055;
+        font-size: 46px;
+        font-family:'Segoe UI';
+        color: #FAF2A1;
+        text-align: center;
+        letter-spacing: 7px;
+        text-decoration: underline
+    }
+    h2 {font-family: 'Franklin Gothic Medium';color: #f6f1c1; text-align: center;}
+
+    h3 {font-size: 28px;font-family: 'Franklin Gothic Medium'; color: #4D7298;}
+
+    h4 {font-size: 25px;font-family: 'Franklin Gothic Medium';color: #4D7298}
+
+    h5 {font-size: 20px; font-family: 'Franklin Gothic Medium';color: #4D7298}
+
+    #Footer{
+        color:#4D7298 ;
+        background-color:#FAF2A1 ;
+        font-family:'Helvetica';
+        font-size: 20px;
+        text-align: right;
+        position: relative;
+        bottom: -20px;
+    }
+    nav {
+        position: fixed;
+        bottom: 197px;
+        left: 1249px; 
+        background-color: #f6f1c1;
+        width: 250px;
+        height: 370px;
+        padding: 5px;}
+
+    article {
+        background-color: #e8fffd;
+        width: 1200px;
+        padding: 10px;
+        margin: 10px;
+    }
+    #fotoautora{
+        position: relative;
+        margin: 10px;
+        width: 10%;
+    }
+    /*Personalizacion*/
+    #lic{
+        color: #344055;
+    }
